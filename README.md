@@ -11,7 +11,8 @@ An interactive **Power BI** dashboard analyzing sales, profit, product, and stor
 
 
 ### Page 2 – Category & Store Sales
-![Category and Store Sales Page](images/category_store_sales.png)
+<img width="1898" height="815" alt="image" src="https://github.com/user-attachments/assets/9e97b32a-c049-41df-84bd-8c37260469c2" />
+
 
 > Save your two screenshots in an `images/` folder using the file names above (or update the paths).
 
