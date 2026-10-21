@@ -7,7 +7,8 @@ An interactive **Power BI** dashboard analyzing sales, profit, product, and stor
 ## 📸 Dashboard Preview
 
 ### Page 1 – Home (Sales Overview)
-![Home Page](images/home.png)
+<img width="1898" height="822" alt="image" src="https://github.com/user-attachments/assets/17fb2a75-27a1-4e53-9b52-54d46cd3f093" />
+
 
 ### Page 2 – Category & Store Sales
 ![Category and Store Sales Page](images/category_store_sales.png)
@@ -125,7 +126,7 @@ Maven-Toy-Sales-Dashboard/
 **Chaitanya Darekar**
 Data Analyst | SQL • Python • Power BI • Excel • Tableau
 
-- 🔗 LinkedIn: [chaitanyadarekar](https://www.linkedin.com/in/chaitanyadarekar)
+- 🔗 LinkedIn: [chaitanyadarekar](https://www.linkedin.com/in/chaitanyadarekar02)
 - 💻 GitHub: [ChaitanyaDarekar2002](https://github.com/ChaitanyaDarekar2002)
 - 🌐 Portfolio: [chaitanyadarekar2002.github.io](https://chaitanyadarekar2002.github.io)
 - 📧 Email: chaitanyadarekar2002@gmail.com
